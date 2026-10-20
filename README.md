@@ -41,13 +41,3 @@ Sou um estudante apaixonado por Engenharia Informática, atualmente a estudar na
 </p>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pgaspr&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="Estatísticas Gerais" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pgaspr&theme=dark&hide_border=false" alt="Estatísticas de Streak" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgaspr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens Mais Usadas" />
-</div>
